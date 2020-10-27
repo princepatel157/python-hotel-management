@@ -1,4 +1,4 @@
-# python-hotel-management
+# python-hotel-management-system
 simple hotel management project on python
 this is just a simple project made by me for my project in XI class in school 
 This project include every corner of hotel 
